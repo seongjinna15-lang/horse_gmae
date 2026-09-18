@@ -1,1 +1,1 @@
-# horse_gmae
+# horse_game
